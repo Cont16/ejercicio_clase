@@ -12,11 +12,17 @@ header{
     position:sticky;                          
     width: 100%;                              
 } 
-#cont {
-    text-align: center;                     
+#cont{
+    text-align: center; 
+    color: yellow;          
+    font-family: 'Courier New', Courier, monospace;     
+    background-color: aquamarine;     
+    
   }
 .nuevo {
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
 }
 
 footer{
