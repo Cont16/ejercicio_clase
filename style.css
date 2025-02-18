@@ -1,0 +1,31 @@
+body { 
+    background-image: url(./fondos-para-páginas-web-6.jpg);
+    text-align: center;                       
+    font-family: arial;                               
+    color:#fff;                             
+    }
+header{
+    background-color: rgb(4, 4, 70);       
+    color:#fff;                             
+    padding:20px;                              
+    text-align: center;                         
+    position:sticky;                          
+    width: 100%;                              
+} 
+#cont {
+    text-align: center;                     
+  }
+.nuevo {
+    text-align: center;
+}
+
+footer{
+    text-align: center;                        
+    font-family: arial;                         
+    background-color: rgb(4, 4, 70);         
+    color: white;                             
+    padding: 11px 0;                           
+    position:fixed;                            
+    width: 100%;                              
+    bottom: 0                                  
+}
